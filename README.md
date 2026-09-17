@@ -13,7 +13,7 @@
 **A high-craft, client-side autonomous reconciliation platform built for chartered accountants, CFOs, auditors, and financial teams.**  
 Eliminates manual Excel VLOOKUP workflows, flags human transposition errors via the Rule-of-9, and generates statutory ICAI-compliant Bank Reconciliation Statements (BRS) with zero server transmission.
 
-[🚀 Live Demo](https://iq4u8.shop) · [📖 Documentation](#-key-capabilities) · [🛠️ Quickstart](#-quickstart--deployment) · [👤 Author](#-author--connect)
+[🚀 Live Demo](https://iqsmartrecon.vercel.app/) · [📖 Documentation](#-key-capabilities) · [🛠️ Quickstart](#-quickstart--deployment) · [👤 Author](#-author--connect)
 
 ---
 
